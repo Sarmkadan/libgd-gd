@@ -54,3 +54,7 @@ and disabled by default:
 * [libraqm](https://github.com/HOST-Oman/libraqm) for complex text layout
 * [libimagequant](https://pngquant.org/lib) for conversion of RGBA images to 8-bit indexed-color images
   * **NOTE** libimagequant is dual-licensed: GPLv3 and commercial license
+
+---
+
+> Built by [Vladyslav Zaiets](https://sarmkadan.com)
